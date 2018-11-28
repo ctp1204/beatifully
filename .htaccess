@@ -1,0 +1,12 @@
+RewriteEngine ON
+RewriteRule ^trang-chu$ index.php
+RewriteRule ^dang-ky$ dangky.php
+RewriteRule ^dang-nhap$ dangnhap.php
+
+
+RewriteRule ^(.*)/(.*)-(.*).html$ chitiet.php?loai_tin=$1&alias=$2&id_tin=$3
+
+
+
+
+

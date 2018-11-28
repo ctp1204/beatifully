@@ -1,0 +1,49 @@
+a.navbar-brand p {
+    font-size: 22px;
+    margin-left: -95px;
+}
+ul.nav.navbar-nav.pull-right {
+    margin-right: -115px;
+}
+img{
+	width: 130%;
+}
+li#menu-item {
+    list-style: none;
+}
+footer {
+    background-color: #ccc;
+    border-top: 4px solid #ed1b2e;
+    text-align: center;
+    color: #000000;
+    overflow: hidden;
+    padding: 10px 0;
+    margin-top: 50px;
+}
+tr.menu-table th {
+    text-align: center;
+}
+
+.panel-heading {
+    text-align: center;
+}
+td.tom-tat {
+    width: 66%;
+}
+#hinh-anh{
+    margin-right:5px;
+    float:left;
+    height: 100px;
+    width: 150px;
+}
+img#hinh-anh-sua {
+    margin-right: 5px;
+    height: 100px;
+    width: 150px;
+}
+textarea#tomtat {
+    height: 100px;
+}
+textarea#noidung {
+    height: 500px;
+}
